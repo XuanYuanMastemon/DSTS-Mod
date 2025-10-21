@@ -22,5 +22,5 @@
 * Ignores attribute disadvantage.
 * Reduces the target's dark-attribute resistance by 100%.
 * Inflicts damage-over-time with 100% probability.
-* Restores SP equal to 5% of damage dealt.
+* Restores SP equal to 10% of damage dealt.
 * Increases INT by 30% for 3 turns.
