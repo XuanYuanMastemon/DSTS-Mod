@@ -189,3 +189,4 @@
 提升对具有「不明」因子的敌方所造成的伤害。
 **Deals 5 instances of 24-power light-elemental physical damage to a single enemy, guaranteed hit, nullifies affinity disadvantage, 100% chance to reduce enemy Defense by 30%, damage increases with more uses of this skill, Increases damage dealt to enemies with the "Unknown" factor.
 <img width="2560" height="1600" alt="Image_1762775970969" src="https://github.com/user-attachments/assets/a38fbbce-6e7a-4e5a-b746-377c1ba3d2f6" />
+
