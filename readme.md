@@ -2,7 +2,7 @@
 对敌方全体释放9次9威力无属性魔法攻击，必中，适性不利无效，
 100%概率降低敌方无属性抗性，100%概率使敌方液晶化，
 混沌之力净化自身侵蚀敌方，10%概率获得救世之力，
-3%概率将敌方葬送入异次元，提升对具有「中」因子的敌方所造成的伤害.
+3%概率将敌方葬送入异次元，提升对具有「中」因子的敌方所造成的伤害。
 Deals 9 instances of 9-power non-elemental magic damage to all enemies, guaranteed hit, nullifies affinity disadvantage, 100% chance to reduce enemy non-elemental resistance, 100% chance to inflict Liquid Crystal status on enemies, Purifies self with Chaos Power and erodes enemies, 10% chance to obtain Savior Power, 3% chance to banish enemies to another dimension, increases damage dealt to enemies with the "Medium" factor.
 
 神圣希望（Holy Desire）
@@ -159,5 +159,6 @@ Deals 90-power light-elemental physical damage to all enemies, guaranteed hit, 1
 100%概率降低敌方30%防御力，该技能使用次数越多所造成的伤害越高，
 提升对具有「不明」因子的敌方所造成的伤害。
 Deals 5 instances of 24-power light-elemental physical damage to a single enemy, guaranteed hit, nullifies affinity disadvantage, 100% chance to reduce enemy Defense by 30%, damage increases with more uses of this skill, Increases damage dealt to enemies with the "Unknown" factor.
+
 
 
