@@ -159,3 +159,4 @@ Deals 90-power light-elemental physical damage to all enemies, guaranteed hit, 1
 100%概率降低敌方30%防御力，该技能使用次数越多所造成的伤害越高，
 提升对具有「不明」因子的敌方所造成的伤害。
 Deals 5 instances of 24-power light-elemental physical damage to a single enemy, guaranteed hit, nullifies affinity disadvantage, 100% chance to reduce enemy Defense by 30%, damage increases with more uses of this skill, Increases damage dealt to enemies with the "Unknown" factor.
+
