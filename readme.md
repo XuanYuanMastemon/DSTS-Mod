@@ -1,59 +1,161 @@
-#【数码兽强化&传说装备（Digimon Intensify & Legendary Equipment）】
+混沌降阶（Chaos Degradation）
+对敌方全体释放9次9威力无属性魔法攻击，必中，适性不利无效，
+100%概率降低敌方无属性抗性，100%概率使敌方液晶化，
+混沌之力净化自身侵蚀敌方，10%概率获得救世之力，
+3%概率将敌方葬送入异次元，提升对具有「中」因子的敌方所造成的伤害。
+Deals 9 instances of 9-power non-elemental magic damage to all enemies, guaranteed hit, nullifies affinity disadvantage, 100% chance to reduce enemy non-elemental resistance, 100% chance to inflict Liquid Crystal status on enemies, Purifies self with Chaos Power and erodes enemies, 10% chance to obtain Savior Power, 3% chance to banish enemies to another dimension, increases damage dealt to enemies with the "Medium" factor.
 
-Non-Chinese players are required to modify or add translation texts on their own when using this MOD.
+神圣希望（Holy Desire）
+对敌方单体释放105威力光属性魔法攻击，必中，适性不利无效，
+100%概率降低敌方光属性抗性，100%概率降低敌方30%精神，
+100%概率暴击，提升对具有「魔」因子的敌方所造成的伤害。
+Deals 105-power light-elemental magic damage to a single enemy, guaranteed hit, nullifies affinity disadvantage, 100% chance to reduce enemy light-elemental resistance, 100% chance to reduce enemy Spirit by 30%, 100% chance to critical hit, increases damage dealt to enemies with the "Magic" factor.
 
-MOD修改了［莫斯提兽］、［阿尔法兽］［阿尔法兽:王龙剑］和［帝皇龙兽:圣骑士形态］的技能，同时添加了［莫斯提兽·光暗之力］和［阿尔法·奥米加］等强力装备。
+黑暗绝望（Dark Despair）
+对敌方单体释放105威力暗属性魔法攻击，适性不利无效，
+100%概率降低敌方暗属性抗性，100%概率受伤，
+100%概率提升自身30%智力，恢复所造成伤害15%的SP，
+提升对具有「圣」因子的敌方所造成的伤害。
+Deals 105-power dark-elemental magic damage to a single enemy, nullifies affinity disadvantage, 100% chance to reduce enemy dark-elemental resistance, 100% chance to inflict Injury status, 100% chance to increase self Intelligence by 30%, restores 15% of damage dealt as SP, Increases damage dealt to enemies with the "Holy" factor.
 
-This MOD modifies the skills of [Mastemon], [Alphamon], [Alphamon: Ouryuken], and [Imperialdramon: Paladin Mode], and simultaneously adds powerful items such as [Mastemon·Power of Light and Darkness] and [Alpha·Omega].
+奥米加剑（Omni Blade）
+对敌方单体释放120威力光属性物理攻击，必中，适性不利无效，
+100%概率降低敌方光属性抗性，100%概率使敌方初始化，攻击后100%概率物理蓄力，
+神圣之力净化自身，当自身处于状态变化时伤害提升50%，自身获得的增益越多所造成的伤害越高，
+10%概率获得救世之力，3%概率将敌方归于虚无，提升对具有「不明」因子的敌方所造成的伤害。
+Deals 120-power light-elemental physical damage to a single enemy, guaranteed hit, nullifies affinity disadvantage, 100% chance to reduce enemy light-elemental resistance, 100% chance to reset enemy status, 100% chance to charge physical power after attack, Purifies self with Holy Power, increases damage by 50% when under status change, damage increases with more buffs on self, 10% chance to obtain Savior Power, 3% chance to annihilate enemies, increases damage dealt to enemies with the "Unknown" factor.
 
-##［莫斯提兽技能（Mastemon Skill）］
-*混沌降阶（Chaos Degradation）*
-对敌方全体释放8×9威力无属性魔法攻击，适性不利无效，100%概率降低敌方无属性抗性，100%概率使敌方液晶化，解除敌方状态提升，提升对具有「圣」因子的敌方所造成的伤害。
+圣剑格雷达尔法（Blade of the Dragon King）
+对敌方单体释放105威力光属性魔法攻击，必中，适性不利无效，
+100%概率降低敌方光属性抗性，100%概率提升自身30%智力，
+自身下一轮行动顺序变成第一个，10%概率激发开端获取之力，
+提升对具有「骑士」因子的敌方所造成的伤害。
+Deals 105-power light-elemental magic damage to a single enemy, guaranteed hit, nullifies affinity disadvantage, 100% chance to reduce enemy light-elemental resistance, 100% chance to increase self Intelligence by 30%, Moves self to the top of the action order in the next turn, 10% chance to activate Genesis Power, Increases damage dealt to enemies with the "Knight" factor.
 
-Launch a non - elemental magic attack with a power of 8×9 on all enemies. The attack is ineffective against enemies with unfavorable aptitude. There is a 100% probability of reducing the non - elemental resistance of enemies, a 100% probability of turning enemies into a liquid - crystal state, and it can remove the status enhancement of enemies. It also increases the damage inflicted on enemies with the "Holy" factor. 
-<img width="2560" height="1600" alt="Image_1761612096979" src="https://github.com/user-attachments/assets/314b5dae-0078-4ea6-a381-f002cddb06e3" />
+灵魂数据化（Soul Digitalization）
+对敌方全体释放75威力无属性魔法攻击，适性不利无效，
+解除敌方状态提升，100%概率降低敌方无属性抗性，100%概率使敌方液晶化，
+当目标尚未行动时伤害提升50%，提升对具有「不明」因子的敌方所造成的伤害。
+Deals 75-power non-elemental magic damage to all enemies, nullifies affinity disadvantage, Removes enemy buffs, 100% chance to reduce enemy non-elemental resistance, 100% chance to inflict Liquid Crystal status on enemies, Increases damage by 50% if the target has not yet acted, increases damage dealt to enemies with the "Unknown" factor.
 
-###*神圣希望（Holy Desire）*
-对敌方单体释放90威力光属性魔法攻击，适性不利无效，100%概率降低敌方光属性抗性，100%概率降低敌方30%精神，必中，100%概率暴击，提升对具有「魔」因子的敌方所造成的伤害 。
+究极战刃王龙剑（Ultimate Ouryuken）
+对敌方单体释放120威力雷属性物理攻击，必中，适性不利无效，
+100%概率降低敌方雷／光属性抗性，100%降低敌方30%，
+自身历经的回合数越多所造成的伤害越高防御力，13%概率激发开端获取之力，
+100%概率暴击，提升对具有「魔」因子的敌方所造成的伤害。
+Deals 120-power thunder-elemental physical damage to a single enemy, guaranteed hit, nullifies affinity disadvantage, 100% chance to reduce enemy thunder/light-elemental resistance, 100% chance to reduce enemy stats by 30%, Damage increases with the number of turns elapsed, 13% chance to activate Genesis Power, 100% chance to critical hit, increases damage dealt to enemies with the "Magic" factor.
 
-Cast a light - attribute magical attack with a power of 90 on a single enemy target. This attack is not affected by unfavorable affinities. There is a 100% probability of reducing the enemy's light - attribute resistance and a 100% probability of reducing the enemy's spirit by 30%. The attack is guaranteed to hit and has a 100% critical - hit rate. It also enhances the damage inflicted on enemies with the "Magic" factor. 
-<img width="2560" height="1600" alt="Image_1761614290907" src="https://github.com/user-attachments/assets/be91dbbd-5b26-46df-9448-175526e54894" />
+灵魂数据化（Soul Digitalization）
+对敌方全体释放90威力无属性魔法攻击，适性不利无效，
+解除敌方状态提升，100%概率降低敌方无属性抗性，100%概率使敌方液晶化，
+当目标尚未行动时伤害提升50%，提升对具有「不明」因子的敌方所造成的伤害。
+Deals 90-power non-elemental magic damage to all enemies, nullifies affinity disadvantage, Removes enemy buffs, 100% chance to reduce enemy non-elemental resistance, 100% chance to inflict Liquid Crystal status on enemies, Increases damage by 50% if the target has not yet acted, increases damage dealt to enemies with the "Unknown" factor.
 
-###*黑暗绝望（Dark Despair）*
-对敌方单体释放90威力暗属性魔法攻击，适性不利无效，100%概率降低敌方暗属性抗性，100%概率提升自身30%智力，回复所造成伤害10%的SP，提升对具有「圣」因子的敌方所造成的伤害。
+暴龙剑（Transcendent Sword）
+对敌方全体释放75威力火属性物理攻击，适性不利无效，
+100%概率降低敌方火属性抗性，解除自身受伤／生病，100%概率提升自身30%攻击力，
+当敌方处于冰属性抗性降低时伤害提升50%，自身所获的的增益越多所造成的伤害越高，
+提升对具有「龙」因子的敌方所造成的伤害。
+Deals 75-power fire-elemental physical damage to all enemies, nullifies affinity disadvantage, 100% chance to reduce enemy fire-elemental resistance, removes self Injury/Sickness status, 100% chance to increase self Attack by 30%, Increases damage by 50% if enemy ice-elemental resistance is reduced, damage increases with more buffs on self, Increases damage dealt to enemies with the "Dragon" factor.
 
-Launch a dark - attribute magical attack with a power of 90 on a single enemy target. This attack is ineffective against targets with unfavorable aptitude. There is a 100% probability of reducing the enemy's dark - attribute resistance and a 100% probability of increasing one's own intelligence by 30%. Recover 10% of the SP based on the damage inflicted. Enhance the damage dealt to enemies with the "Holy" factor. 
-<img width="2560" height="1600" alt="Image_1761614293630" src="https://github.com/user-attachments/assets/0fb761a3-d88d-4cb2-97c5-3a63a77c9e28" />
+加鲁鲁炮（Supreme Cannon）
+对敌方单体释放105威力冰属性物理攻击，适性不利无效，
+100%概率降低敌方冰属性抗性，解除敌方状态提升，100%概率降低敌方30%防御力，
+当敌方处于火属性抗性降低时伤害提升50%，自身历经的回合数越多所造成的伤害越高，
+提升对具有「机械」因子的敌方所造成的伤害。
+Deals 105-power ice-elemental physical damage to a single enemy, nullifies affinity disadvantage, 100% chance to reduce enemy ice-elemental resistance, removes enemy buffs, 100% chance to reduce enemy Defense by 30%, Increases damage by 50% if enemy fire-elemental resistance is reduced, damage increases with the number of turns elapsed, Increases damage dealt to enemies with the "Machine" factor.
 
-##［阿尔法兽（Alphamon）］
-###*圣剑格雷达尔法（Blade of the Dragon King）*
-对敌方单体释放2～9次30威力光属性魔法攻击，适性不利无效，100%概率降低敌方光属性抗性，100%概率提升自身30%智力，必中，自身下一轮行动顺序变成第一个，提升对具有「骑士」因子的敌方所造成的伤害。
+大地暴龙剑（GeoGrey Sword）
+对敌方单体释放90威力地面属性物理攻击，
+100%概率降低敌方地面属性抗性，100%概率使敌方受伤，
+100%概率提升自身30%攻击力，提升对具有「魔」因子的敌方所造成的伤害。
+Deals 90-power earth-elemental physical damage to a single enemy, 100% chance to reduce enemy earth-elemental resistance, 100% chance to inflict Injury status, 100% chance to increase self Attack by 30%, increases damage dealt to enemies with the "Magic" factor.
 
-Launch a light - attribute magical attack with a power of 30 on a single enemy target for 2 to 9 times. This attack is ineffective against targets with unfavorable suitability. There is a 100% probability of reducing the enemy's light - attribute resistance and a 100% probability of increasing one's own intelligence by 30%. The attack is guaranteed to hit. One's own next action order will be changed to the first. The damage inflicted on enemies with the "Knight" factor will be increased. 
-<img width="2560" height="1600" alt="Image_1761614298159" src="https://github.com/user-attachments/assets/80d95d08-d157-438a-9f01-8700017da6a1" />
+辉煌爆破（Glorious Burst）
+對敵方全體釋放75威力光属性物理攻击，适性不利无效，
+100%降低自身60%防御力／精神，
+提升对具有「中」因子的敌方所造成的伤害。
+Deals 75-power light-elemental physical damage to all enemies, nullifies affinity disadvantage, 100% chance to reduce self Defense/Spirit by 60%, Increases damage dealt to enemies with the "Medium" factor.
 
-###*灵魂数据化（Soul Digitalization）*
-对敌方全体释放60威力无属性魔法攻击，适性不利无效，100%概率降低敌方无属性抗性，100%概率使敌方液晶化，解除敌方状态提升，如果目标尚未行动则伤害提升50%，提升对具有「不明」因子的敌方所造成的伤害。
+最终闪光爆破（Final Shining Burst）
+消耗自身100%HP，对敌方全体释放120威力光属性物理攻击，HP越低所造成的伤害越低，
+必中，适性不利无效，100%降低敌方火／光属性抗性，太阳光辉净化自身，
+当［闪光暴龙兽:爆裂形态］存活时，100%降低自身60%防御力／精神／敏捷，
+提升对具有「中」因子的敌方所造成的伤害。
+Consumes 100% of self HP to deal 120-power light-elemental physical damage to all enemies, damage decreases with lower HP, Guaranteed hit, nullifies affinity disadvantage, 100% chance to reduce enemy fire/light-elemental resistance, purifies self with Solar Radiance, When [ShineGreymon: Burst Mode] is alive, 100% chance to reduce self Defense/Spirit/Agility by 60%, Increases damage dealt to enemies with the "Medium" factor.
 
-Launch a non - elemental magical attack with a power of 60 on all enemies. This attack is ineffective against enemies with unfavorable aptitude. There is a 100% probability of reducing the non - elemental resistance of the enemies and a 100% probability of causing the enemies to enter a liquid - crystal state. The status enhancements of the enemies will be removed. If the target has not taken action yet, the damage will be increased by 50%. The damage inflicted on enemies with the "Unknown" factor will also be increased. 
-<img width="2560" height="1600" alt="Image_1761614299681" src="https://github.com/user-attachments/assets/959352b0-6817-447f-991f-621f007c9ce3" />
+日冕爆炎剑（Corona Blaze Sword）
+对敌方单体释放120威力火属性物理攻击，必中，适性不利无效，
+100%降低敌方火／地面属性抗性，100%概率使敌方受伤，100%概率降低敌方30%防御力，
+100%概率暴击，100%概率提升自身30%攻擊力，
+当自身处于状态提升时伤害提升40%，提升对具有「魔」因子的敌方所造成的伤害。
+Deals 120-power fire-elemental physical damage to a single enemy, guaranteed hit, nullifies affinity disadvantage, 100% chance to reduce enemy fire/earth-elemental resistance, 100% chance to inflict Injury status, 100% chance to reduce enemy Defense by 30%, 100% chance to critical hit, 100% chance to increase self Attack by 30%, Increases damage by 40% when under buffs, increases damage dealt to enemies with the "Magic" factor.
 
-##［阿尔法兽:王龙剑（Alphamon:Ouryuken）］
-###*究极战刃王龙剑（Ultimate Ouryuken）*
-对敌方单体释放2～9次40威力雷属性物理攻击，适性不利无效，100%概率降低敌方雷属性、光属性抗性，100%降低敌方30%防御力，历经的回合数越多所造成的伤害越高，必中，100%概率暴击，提升对具有「魔」因子的敌方所造成的伤害 。
+和平幻想曲（Peace Fantasia）
+指挥狞笑的白色恶魔对敌方单体造成5次9点固定伤害，攻击视为自由种，
+解除敌方状态提升，100%概率使敌方身中剧毒／受伤／生病，
+100%概率降低敌方30%防御／精神／命中率，
+提升对具有「人」因子的敌方所造成的伤害。
+Commands the grinning white demon to deal 5 instances of 9 fixed damage to a single enemy, attack is considered Free Type, Removes enemy buffs, 100% chance to inflict Poison/Injury/Sickness status on enemies, 100% chance to reduce enemy Defense/Spirit/Accuracy by 30%, Increases damage dealt to enemies with the "Human" factor.
 
-Launch 2 to 9 times of physical attacks with a power of 40 and of thunder attribute against a single enemy target. These attacks are ineffective if the suitability is unfavorable. There is a 100% probability to reduce the enemy's thunder and light attribute resistances, and a 100% chance to decrease the enemy's defense by 30%. The more rounds have passed, the higher the damage inflicted. These attacks are guaranteed to hit, with a 100% probability of critical hits. The damage inflicted on enemies with the "Demon" factor is increased. 
-<img width="2560" height="1600" alt="Image_1761614303044" src="https://github.com/user-attachments/assets/fe5a007c-51b3-44a4-9600-439d62690d2f" />
+LOVE YOU
+基于精神，对我方全体释放治疗恢复HP／SP，
+全员HP／SP越低恢复量越高，解除我方状态下降／异常状态／受伤／生病，
+70%概率提升我方全体20%防御／精神／30%暴击率，40%概率物理／魔法蓄力。
+Heals HP/SP for all allies based on Spirit, Healing amount increases with lower HP/SP, removes debuffs/abnormal status/Injury/Sickness from allies, 70% chance to increase all allies' Defense/Spirit by 20% and critical rate by 30%, 40% chance to charge physical/magic power.
 
-###*灵魂数据化（Soul Digitalization）*
-对敌方全体释放75威力无属性魔法攻击，适性不利无效，100%概率降低敌方无属性抗性，100%概率使敌方液晶化，解除敌方状态提升，如果目标尚未行动则伤害提升50%，提升对具有「不明」因子的敌方所造成的伤害。
+宏伟十字架（Grand Cross）
+对敌方全体释放10次9威力光属性魔法攻击，必中，适性不利无效，
+100%概率降低敌方光属性抗性，20%概率使敌方无法行动1回合，
+当敌方进化等级高于自身时伤害提升30%，提升对具有「魔」因子的敌方所造成的伤害。
+Deals 10 instances of 9-power light-elemental magic damage to all enemies, guaranteed hit, nullifies affinity disadvantage, 100% chance to reduce enemy light-elemental resistance, 20% chance to immobilize enemies for 1 turn, Increases damage by 30% if enemy evolution level is higher than self, increases damage dealt to enemies with the "Magic" factor.
 
-Launch a non - elemental magical attack with a power of 75 on all enemies. This attack is ineffective against enemies with unfavorable aptitude. There is a 100% probability of reducing the non - elemental resistance of the enemies and a 100% probability of causing the enemies to enter a liquid - crystal state. The status enhancements of the enemies will be removed. If the target has not taken action yet, the damage will be increased by 50%. The damage inflicted on enemies with the "Unknown" factor will also be increased. 
-<img width="2560" height="1600" alt="Image_1761614305989" src="https://github.com/user-attachments/assets/25c36249-93ee-4768-a56f-51dc8917b4f2" />
+生或死（Dead or Alive）
+命运·生：对敌方单体恢复200%HP，100%概率使敌方获得「命运·生」，
+命运·死：对敌方单体释放110威力无属性魔法攻击，100%概率使敌方获得「命运·死」，
+提升对具有「中」因子的敌方所造成的伤害。
+Fate·Life: Heals a single enemy by 200% HP, 100% chance to inflict "Fate·Life" status, Fate·Death: Deals 110-power non-elemental magic damage to a single enemy, 100% chance to inflict "Fate·Death" status, Increases damage dealt to enemies with the "Medium" factor.
 
-##「帝皇龙兽:圣骑士形态（Imperialdramon: Paladin Mode）」
-###*奥米加剑（Omni Blade）*
-对敌方单体释放3～6次30威力光属性物理攻击，适性不利无效，100%概率降低敌方光属性抗性，100%概率使敌方初始化，攻击后100%概率物理蓄力，当自身处于状态变化时伤害提升50%，自身获得的增益越多所造成的伤害越高，必中，10%概率获得救世之力，提升对具有「不明」因子的敌方所造成的伤害。
+失乐园（Paradise Lost）
+对敌方单体释放13次9威力无属性物理攻击，适性不利无效，
+100%概率降低敌方无属性抗性，100%概率降低敌方30%防御力，100%概率降低自身60%命中率，
+100%概率暴击，提升对具有「中」因子的敌方所造成的伤害。
+Deals 13 instances of 9-power non-elemental physical damage to a single enemy, nullifies affinity disadvantage, 100% chance to reduce enemy non-elemental resistance, 100% chance to reduce enemy Defense by 30%, 100% chance to reduce self Accuracy by 60%, 100% chance to critical hit, increases damage dealt to enemies with the "Medium" factor.
 
-Launch 3 to 6 physical attacks of 30 power with light attribute on a single enemy target. These attacks are ineffective against targets with unfavorable suitability. There is a 100% probability of reducing the enemy's light - attribute resistance and a 100% probability of initializing the enemy. After the attack, there is a 100% probability of physical charge. When the user is under a status change, the damage is increased by 50%. The more buffs the user has, the higher the damage inflicted. These attacks always hit the target. There is a 10% probability of obtaining the Power of Salvation, which enhances the damage inflicted on enemies with the "Mysterious" factor. 
-<img width="2560" height="1600" alt="Image_1761593897212" src="https://github.com/user-attachments/assets/ca56b67f-92c4-477c-97cd-f5445678a52d" />
+神之赎罪（Divine Atonement）
+对敌方全体释放5～7次15威力光属性魔法攻击，适性不利无效，
+100%概率降低敌方光属性抗性，当自身处于状态变化时伤害提升50%，
+全场死亡越多造成的伤害越高，3%概率强制敌方赎罪，
+提升对具有「圣」因子的敌方所造成的伤害。
+Deals 5～7 instances of 15-power light-elemental magic damage to all enemies, nullifies affinity disadvantage, 100% chance to reduce enemy light-elemental resistance, increases damage by 50% when under status change, Damage increases with more deaths on the field, 3% chance to force enemies to atone, Increases damage dealt to enemies with the "Holy" factor.
+
+涤罪烈焰（Purgatorial Flame）
+对敌方单体释放120威力火属性魔法攻击，适性不利无效，
+100%概率降低敌方火属性抗性，洗涤敌方的罪恶，
+当敌方进化等级低于自身时，伤害提升50%，
+提升对具有「魔」因子的敌方所造成的伤害。
+Deals 120-power fire-elemental magic damage to a single enemy, nullifies affinity disadvantage, 100% chance to reduce enemy fire-elemental resistance, purifies enemy sins, Increases damage by 50% if enemy evolution level is lower than self, Increases damage dealt to enemies with the "Magic" factor.
+
+皇家枪击（Lightning Joust）
+对敌方单体释放105威力光属性物理攻击，适性不利无效，
+100%概率降低敌方30%防御力，自身所获的的增益越多所造成的伤害越高，
+当敌方是病毒种时伤害提升50%，提升对具有「魔」因子的敌方所造成的伤害。
+Deals 105-power light-elemental physical damage to a single enemy, nullifies affinity disadvantage, 100% chance to reduce enemy Defense by 30%, damage increases with more buffs on self, Increases damage by 50% if enemy is Virus Type, increases damage dealt to enemies with the "Magic" factor.
+
+极乐净土（Shield of the Just）
+对敌方全体释放75威力光属性魔法攻击，
+解除敌方状态提升，100%概率降低敌方光属性抗性，
+回复所造成伤害5%的HP／SP，提升对具有「魔」因子的敌方所造成的伤害。
+Deals 75-power light-elemental magic damage to all enemies, Removes enemy buffs, 100% chance to reduce enemy light-elemental resistance, Restores 5% of damage dealt as HP/SP, increases damage dealt to enemies with the "Magic" factor.
+
+君往何处（Quo Vadis）
+对敌方全体释放90威力光属性物理攻击，必中，
+100%概率降低敌方光属性抗性，当敌方是病毒种时伤害提升50%，
+3%概率将敌方埋葬在异次元彼方，提升对具有「虫」因子的敌方所造成的伤害。
+Deals 90-power light-elemental physical damage to all enemies, guaranteed hit, 100% chance to reduce enemy light-elemental resistance, increases damage by 50% if enemy is Virus Type, 3% chance to banish enemies to another dimension, increases damage dealt to enemies with the "Insect" factor.
+
+无敌剑（Invincible Sword）
+对敌方单体释放5次24威力光属性物理攻击，必中，适性不利无效，
+100%概率降低敌方30%防御力，该技能使用次数越多所造成的伤害越高，
+提升对具有「不明」因子的敌方所造成的伤害。
+Deals 5 instances of 24-power light-elemental physical damage to a single enemy, guaranteed hit, nullifies affinity disadvantage, 100% chance to reduce enemy Defense by 30%, damage increases with more uses of this skill, Increases damage dealt to enemies with the "Unknown" factor.
